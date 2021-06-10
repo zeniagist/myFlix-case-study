@@ -1,9 +1,11 @@
-# Portfolio Website
+# myFlix Case Study
 
-Personal resume website developed using Javascript and Bootstrap and hosted on Github Pages. 
-Displays my web presence, work experience, education, projects, achievements, and contact information.
+A case study for the building process for the full-stack app myFlix.
 
-![Portfolio Img](./img/portfolio.JPG)
+## Description
+
+myFlix is the client-side of a movie database application built using React with existing server-side (REST API) and MongoDB database.
+
 ### Author
 
 [Zenia Gist](https://zeniagist.github.io)
